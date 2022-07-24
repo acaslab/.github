@@ -3,4 +3,3 @@
   <h3 align="center">I'm software <code>&&</code> devops engineer, lector and consultant</h3>
   <h3 align="center">And in free time I play games and write stuff for them</h3>
 </p>
-<img src="https://raw.githubusercontent.com/acaslab/.github/main/assets/Aca_.png" style="display: block; margin: 0 auto;" />
